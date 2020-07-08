@@ -1,11 +1,14 @@
 # Horiseon
 
-## Objective
-Refactor code to make website more accessible.
+## Purpose
+A funtional and accesible website that showcases Horiseon's marketing consultation services 
 
-### Technologies
-Project is created with HTML and CSS
+## Technologies 
+* HTML
+* CSS
 
-#### Website 
+## Website
+https://dresroldan.github.io/horiseon-marketing/
 
 
+![horiseon layout] (./horiseonlayout.png)
