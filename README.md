@@ -1,7 +1,7 @@
 # Horiseon
 
 ## Purpose
-A funtional and accesible website that showcases Horiseon's marketing consultation services 
+A funtional and accesible website that showcases Horiseon's marketing services 
 
 ## Technologies 
 * HTML
@@ -11,4 +11,3 @@ A funtional and accesible website that showcases Horiseon's marketing consultati
 https://dresroldan.github.io/horiseon-marketing/
 
 
-![horiseon layout] (horiseonlayout.png)
