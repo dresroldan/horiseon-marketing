@@ -11,4 +11,4 @@ A funtional and accesible website that showcases Horiseon's marketing consultati
 https://dresroldan.github.io/horiseon-marketing/
 
 
-![horiseon layout] (./horiseonlayout.png)
+![horiseon layout] (horiseonlayout.png)
