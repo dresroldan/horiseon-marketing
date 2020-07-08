@@ -1,7 +1,7 @@
 # Horiseon
 
 ## Purpose
-A funtional and accesible website that showcases Horiseon's marketing services 
+A functional and accessible website that showcases Horiseon's marketing services 
 
 ## Technologies 
 * HTML
